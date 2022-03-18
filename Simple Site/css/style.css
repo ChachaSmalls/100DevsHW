@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(120, 206, 233);
+    border: 5px solid rgb(0, 203, 74);
+    width: 900px;
+    height: 600px;
+    margin: 0px auto;
+    overflow: auto;
+    font-family: 'Roboto', sans-serif;    
+}
+h1{
+    color: white;
+    font-style: italic;
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Lora', serif;
+}
+nav{
+    text-align: center;
+}
+a:link{
+    color:rgb(0, 203, 74);
+}
+a:visited{
+    color: white;
+}
+h2{
+    font-weight: bold;
+    font-size: larger;
+    color: white;
+    margin-left: .5in;
+    margin-right: .5in;
+}
+img{
+    height: 175px;
+    width: 125px;
+    float: right;
+    margin-right: .5in;
+}
+p{
+    overflow-wrap: break-word;
+    color: white;
+    margin-left: .5in;
+    margin-right: .5in;
+}
